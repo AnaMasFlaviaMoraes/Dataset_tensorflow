@@ -1,7 +1,7 @@
 # Grupo 3
 - Ana Flávia Moraes
-- Juan Carlos Quevedo Weimar
-- Rodrigo Valadao
+- Juan Carlos Quevedo Weimar (https://www.linkedin.com/in/juan-weimar-751891197/)
+- Rodrigo Valadao (https://www.linkedin.com/in/rodrigo-valadão-b38919141/)
 
 # Link para aplicação:
 
